@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.cuerpo {
+    background-color: rgb(123, 255, 0);
+  }
+
+#Hero-Section {
+    background-image: url("../image/principal.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    }
+
+#Mis-trabajos .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.secondimage{
+    background-image:url("../image/trabajo_2_NATURALOVERS.jpg");
+}
+.firstimage{
+    background-image:url("../image/cv.jpg");
+}
+.thirdimage{
+    background-image:url("../image/trabajo_3_IGUANA_PAGE.jpg");
+}
+.image4{
+    background-image:url("../image/trabajo_3_CUPON.jpg");
+}
+.image5{
+    background-image:url("../image/Primer_Forckeo.jpg");
+}
+.image6{
+    background-image:url("../image/en_proceso.jpg");
+}
